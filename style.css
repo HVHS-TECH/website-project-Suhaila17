@@ -1,8 +1,8 @@
 body{
-background-color: lightblue;
+background-color: rgb(92, 127, 138);
 }
 
 .container{
     display: grid;
-    
+
 }

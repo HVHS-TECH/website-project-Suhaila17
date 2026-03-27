@@ -2,4 +2,7 @@ body{
 background-color: lightblue;
 }
 
-.co
+.container{
+    display: grid;
+    
+}

@@ -8,7 +8,7 @@ body{
    padding: 20px;
    margin-top: 40px;
    border-radius: 20px;
-   grid-template-columns: repeat(auto-fit,minmax(220px,1fr) );
+   grid-template-columns: auto auto auto;
 }
 
 .container{

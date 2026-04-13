@@ -14,7 +14,7 @@ body{
     display: flex;
     justify-content: center;
     gap: 25px;
-    flex: wrap;
+    flex-wrap: wrap;
     padding: 12px;
 }
 

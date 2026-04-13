@@ -1,18 +1,34 @@
 body{
-   background-color: skyblue;
+    background-color: #2F4156;
+    color:#f7e6da;
+    margin: 0;
 }
 
-.container{
-   display: grid;
-   gap: 30px;
-   padding: 20px;
-   grid-template-columns: auto auto auto;
+
+.nav{
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    flex: wrap;
+    border-bottom: 2px solid #567C8D;
+    padding: 10px;
 }
 
-.container{
-   background-color: rgba(0, 0, 71, 0.596);
-   padding: 20px;
-   text-align: center;
-   border: 1px black; 
-   text-align:center;
+.nav a{
+   display:inline-block;
+   background-color: #567C8D;
+   text-decoration: none;
+   color: #f7e6da;
+   font-weight: 550;
+   padding: 8px  18px;
+   border-radius: 15px;
+   margin-inline-start: 10px;
+   letter-spacing: 1px;
 }
+
+.nav a:hover{
+    background-color: #f7e6da ;
+    color:#567C8D;
+}
+
+

@@ -37,11 +37,6 @@ body{
     color:#C8D9E6;
 }
 
-.nav a.active{
-    background-color: #2F4156 ;
-    color:#C8D9E6;
-     box-shadow: 0 2px 6px rgba(47, 65, 86, 0.15)
-}
 
 .intro{
     text-align: center;

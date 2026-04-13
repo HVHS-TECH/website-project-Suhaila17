@@ -1,34 +1,50 @@
 body{
-    background-color: #2F4156;
-    color:#f7e6da;
+    background-color:#F5EFEB;
     margin: 0;
+    color:#2F4156;
 }
 
+.navbar{
+    background-color: #FFFFFF;
+    box-shadow: 0 2px 8px rgba(47, 65, 86, 0.08)
+}
 
 .nav{
     display: flex;
     justify-content: center;
     gap: 25px;
     flex: wrap;
-    border-bottom: 2px solid #567C8D;
-    padding: 10px;
+    padding: 12px;
 }
 
 .nav a{
    display:inline-block;
-   background-color: #567C8D;
    text-decoration: none;
-   color: #f7e6da;
+   color: #2F4156 ;
    font-weight: 550;
    padding: 8px  18px;
    border-radius: 15px;
    margin-inline-start: 10px;
    letter-spacing: 1px;
+   transition: 0.3s ease;
+   background-color:#C8D9E6;
+   box-shadow: 0 2px 6px rgba(47, 65, 86, 0.15)
 }
 
 .nav a:hover{
-    background-color: #f7e6da ;
-    color:#567C8D;
+    background-color: #2F4156 ;
+    color:#C8D9E6;
 }
 
+.intro{
+    text-align: center;
+    padding: 100px 20px;
+    height: 60vh;
+    background-image: url("images/7wonders.png");
+    background-size:cover;
+    background-position: center;
+    margin-top: 10px;
+
+
+}
 

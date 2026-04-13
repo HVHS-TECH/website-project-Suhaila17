@@ -50,7 +50,7 @@ body{
 }
 
 .border{
-    border-bottom:2px solid #2F4156  ;
+    border-bottom:1px solid #2F4156  ;
     margin:0 12px;
     padding-top: 8px;
     border-radius: 1.5px;
@@ -58,6 +58,7 @@ body{
 
 .intro2{
     text-align: center;
+    margin: 10px;
 }
 
 

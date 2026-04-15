@@ -157,6 +157,17 @@ body{
     transform: scale(1.05);
 }
 
+.intro3{
+    text-align: center;
+    padding: 100px 20px;
+    height: 60vh;
+    background-image: url("images/7wonders.png");
+    background-size:cover;
+    background-position:center;
+    margin: 10px;
+   
+}
+
 
 
 

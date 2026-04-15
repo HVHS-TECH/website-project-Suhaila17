@@ -124,13 +124,26 @@ body{
     
 }
 
-.container2:hover h3
-.container2:hover p
+
+
 .container2:hover a{
     transform: scale(1.05);
     color:#C8D9E6;
     background-color: #2F4156;
 }
+
+.container2:hover p{
+     transform: scale(1.05);
+    color:#C8D9E6;
+    background-color: #2F4156;
+}
+
+.container2:hover h3{
+   transform: scale(1.05);
+    color:#C8D9E6;
+    background-color: #2F4156; 
+}
+
 
 
 

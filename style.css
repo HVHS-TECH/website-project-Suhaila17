@@ -82,7 +82,7 @@ body{
     gap: 25px;
     grid-template-rows:repeat(3, auto);
     box-shadow: rgba(162, 160, 160, 0.56) 0px 22px 70px 4px;
-   
+    
 }
 
 .container2{
@@ -92,6 +92,7 @@ body{
     background-color: #C8D9E6;
     border-radius: 10px;
     padding: 5px;
+    border:1px solid #2F4156  ;
 }
 
 

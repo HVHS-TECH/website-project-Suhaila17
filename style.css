@@ -96,7 +96,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #2F4156 ;
+    background-color: #C8D9E6 ;
     border-radius: 10px;
     padding-bottom: 5px;
     
@@ -104,13 +104,13 @@ body{
 
 .content h3{
     text-align: center;
-    color:white;
+    color:#2F4156 ;
 }
 
 .content p{
     text-align: center;
     margin:10px;
-    color: white;
+    color: #2F4156 ;
 }
 
 

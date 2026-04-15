@@ -71,6 +71,11 @@ body{
     
 }
 
+.image{
+    width: 50%;
+    height: 160;
+}
+
 .layout{
     margin-top: 10px;
     margin: 10px;

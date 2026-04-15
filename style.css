@@ -118,6 +118,7 @@ body{
 }
 
 .container2:hover{
+    transform: scale(1.5)
     color:#C8D9E6;
     background-color: #2F4156;
     

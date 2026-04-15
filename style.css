@@ -134,8 +134,7 @@ body{
  color:#C8D9E6;
 }
 
-.button,
-.container a{
+.button{
     display:inline-block;
     background-color: #2F4156;
     color:#C8D9E6;
@@ -145,8 +144,7 @@ body{
     padding: 10px 20px;
 }
 
-.button,
-.container2:hover a{
+.button:hover {
    transition: 0.3 ease;
    color:#2F4156;
    background-color: #C8D9E6;

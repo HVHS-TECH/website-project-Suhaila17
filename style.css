@@ -159,11 +159,13 @@ body{
 
 .intro3{
     text-align: center;
-    padding: 80px 20px;
+    padding:80px 20px;
     height: 60vh;
     background-image: url("images/greatwallofchina.png");
-    background-size:cover;
+    background-size:contain;
     background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
     margin: 10px;
    
 }

@@ -72,11 +72,15 @@ body{
 }
 
 .layout{
+    margin: 10px;
+    border-radius: 10px;
+    background-color: white;
     display:grid;
     padding: 50px 20px;
     grid-template-columns: repeat(3, minmax(250px, 1fr));
     gap: 25px;
     grid-template-rows:repeat(3, auto)
+
 }
 
 .container2{

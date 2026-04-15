@@ -130,6 +130,7 @@ body{
 .container2:hover p,
 .container2:hover h3{
   transition: 0.3 ease;
+  color:#C8D9E6;
 }
 
 

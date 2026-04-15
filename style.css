@@ -72,9 +72,10 @@ body{
 }
 
 .content img{
-    position: center;
+    display: block;
     width: 250px;
     height: 190px;
+    margin: 0 auto;
 }
 
 .layout{

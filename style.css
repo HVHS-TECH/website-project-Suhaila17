@@ -142,7 +142,7 @@ body{
     border-radius: 30px;
     margin:10px auto;
     padding: 10px 20px;
-    display:block;
+    text-align: center;
 }
 
 .button:hover {

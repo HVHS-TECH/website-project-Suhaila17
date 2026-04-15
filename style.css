@@ -79,6 +79,11 @@ body{
     grid-auto-rows:200px
 }
 
+.container2{
+    display: flex;
+    justify-content: center;
+}
+
 
 
 

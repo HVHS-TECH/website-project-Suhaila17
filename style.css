@@ -134,16 +134,18 @@ body{
  color:#C8D9E6;
 }
 
+.button,
 .container a{
     display:inline-block;
-    margin: 0 auto;
     background-color: #2F4156;
     color:#C8D9E6;
     text-decoration: none;
     border-radius: 30px;
-    position:center;
+    margin:center;
+    padding: 10px 20px;
 }
 
+.button,
 .container2:hover a{
    transition: 0.3 ease;
    color:#2F4156;

@@ -127,15 +127,24 @@ body{
 
 
 
-.container2:hover a,
+
 .container2:hover p,
 .container2:hover h3{
   transition: 0.3 ease;
  color:#C8D9E6;
 }
 
-.button{
-    
+.container a{
+    display:inline-block;
+    margin: 0 auto;
+    background-color: #2F4156;
+    color:#C8D9E6;
+}
+
+.container2:hover a{
+   transition: 0.3 ease;
+   color:#2F4156;
+   background-color: #C8D9E6;
 }
 
 

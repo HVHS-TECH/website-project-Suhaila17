@@ -145,7 +145,7 @@ body{
     text-align: center;
 }
 
-.button:hover {
+.container2:hover .button {
    transition: 0.3 ease;
    color:#2F4156;
    background-color: #C8D9E6;

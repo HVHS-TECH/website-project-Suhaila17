@@ -140,8 +140,9 @@ body{
     color:#C8D9E6;
     text-decoration: none;
     border-radius: 30px;
-    margin:center;
+    margin:10px auto;
     padding: 10px 20px;
+    display:block;
 }
 
 .button:hover {

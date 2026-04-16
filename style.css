@@ -183,6 +183,58 @@ body{
    
 }
 
+.intro5{
+    text-align: center;
+    padding:100px 10px;
+    height: 60vh;
+    background-image: url("images/tajmahal3.jpeg");
+    background-size:contain;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px;
+   
+}
+
+.intro6{
+    text-align: center;
+    padding:100px 10px;
+    height: 60vh;
+    background-image: url("images/picchu.jpeg");
+    background-size:contain;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px;
+   
+}
+
+.intro7{
+    text-align: center;
+    padding:100px 10px;
+    height: 60vh;
+    background-image: url("images/itza.jpeg");
+    background-size:contain;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px;
+   
+}
+
+.intro8{
+    text-align: center;
+    padding:100px 10px;
+    height: 60vh;
+    background-image: url("images/colosseum.jpeg");
+    background-size:contain;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px;
+   
+}
+
 
 
 

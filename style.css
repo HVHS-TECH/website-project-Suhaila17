@@ -61,7 +61,10 @@ body{
     padding-top: 8px;
 }
 
-
+.intro2 ul{
+    margin:30px;
+  text-align: justify; 
+}
 
 .intro2 p{
   margin:30px;

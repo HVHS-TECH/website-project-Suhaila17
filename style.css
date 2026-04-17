@@ -61,15 +61,16 @@ body{
     padding-top: 8px;
 }
 
-.intro2 h1{
-    text-align: center;
-}
+
 
 .intro2 p{
-  margin:30px
+  margin:30px;
+  text-align: justify;
 }
+
+
 .intro2{
-    text-align: justify;
+    text-align: center;
     margin: 10px;
     background-color: white;
     border-radius: 10px;

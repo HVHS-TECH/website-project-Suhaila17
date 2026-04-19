@@ -292,6 +292,18 @@ body{
     background-color: #FFFFFF;
 }
 
+.search input{
+    padding:10px;
+    border-radius: 30px;
+    border-color: #2F4156;
+    width:200px;
+    color: #2F4156;
+}
+
+.search button{
+
+}
+
 
 
 

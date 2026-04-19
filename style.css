@@ -285,12 +285,19 @@ body{
   margin:10px
 }
 
+.topbar{
+    background-color: #FFFFFF;
+    display: flex;
+    padding:20px;
+
+}
+
 .search{
     display: flex;
     justify-content: right;
     text-align: center;
     padding:10px;
-    background-color: #FFFFFF;
+    
 }
 
 .search input{
@@ -317,10 +324,9 @@ body{
 }
 
 .topbar img{
-   margin-right: 20px;
    height:80px;
    width:auto;
-   object-fit: contain;
+
 }
 
 

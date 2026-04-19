@@ -279,9 +279,10 @@ body{
 .footer{
   background-color: white;
   border-radius: 10px;
-  margin: 30px;
   text-align: justify;
   box-shadow: rgba(118, 118, 118, 0.56) 0px 22px 70px 4px;
+  padding: 20px;
+  margin:10px
 }
 
 .search{

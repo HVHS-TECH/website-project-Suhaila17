@@ -17,7 +17,7 @@ body{
     gap: 25px;
     flex-wrap: wrap;
     padding: 12px;
-    box-shadow: rgba(132, 132, 132, 0.56) 0px 22px 70px 4px;
+    
 }
 
 .nav a{
@@ -290,6 +290,7 @@ body{
     text-align: center;
     padding:10px;
     background-color: white;
+    
 }
 
 

@@ -301,7 +301,18 @@ body{
 }
 
 .search button{
+    padding:10px;
+    border: none;
+    background-color: #C8D9E6;
+    color: #2F4156;
+    border-radius: 20px;
+    cursor: pointer;
+}
 
+.search button:hover{
+    background-color: #2F4156;
+    color: #C8D9E6;
+    transform: 1.6;
 }
 
 

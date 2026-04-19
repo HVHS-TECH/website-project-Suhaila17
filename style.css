@@ -316,8 +316,10 @@ body{
     transform: scale(1.06);
 }
 
-.logo{
-    
+.topbar .logo img{
+   margin-right: 20px;
+   height:80px;
+   width:auto
 }
 
 

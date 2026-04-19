@@ -319,7 +319,8 @@ body{
 .topbar .logo img{
    margin-right: 20px;
    height:80px;
-   width:auto
+   width:auto;
+   object-fit: contain;
 }
 
 

@@ -285,7 +285,11 @@ body{
 }
 
 .search{
-    
+    display: flex;
+    justify-content: right;
+    text-align: center;
+    padding:10px;
+    background-color: white;
 }
 
 

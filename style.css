@@ -316,7 +316,7 @@ body{
     transform: scale(1.06);
 }
 
-.topbar .logo img{
+.topbar img{
    margin-right: 20px;
    height:80px;
    width:auto;

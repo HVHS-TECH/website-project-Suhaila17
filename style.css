@@ -312,7 +312,7 @@ body{
 .search button:hover{
     background-color: #2F4156;
     color: #C8D9E6;
-    transform: 1.6;
+    transform: scale(1.06);
 }
 
 

@@ -122,6 +122,11 @@ body{
     
 }
 
+.content h2{
+    text-align: center;
+    color:#2F4156 ;
+}
+
 .content h3{
     text-align: center;
     color:#2F4156 ;
@@ -142,7 +147,7 @@ body{
 
 
 
-
+.container2:hover h2,
 .container2:hover p,
 .container2:hover h3{
   transition: 0.3s ease;
